@@ -3,4 +3,46 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_bjO7YL5fEfC2GsKCW8BmsA">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="_D_Y-IL6BEfCDEoI4Iov8Eg" name="Student Union Management System" useCase="_Flz6oL6HEfCDEoI4Iov8Eg _VKr9wL6HEfCDEoI4Iov8Eg">
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_Flz6oL6HEfCDEoI4Iov8Eg" name="Create Event" subject="_D_Y-IL6BEfCDEoI4Iov8Eg">
+      <extend xmi:type="uml:Extend" xmi:id="_M3Sc0L6KEfCDEoI4Iov8Eg" extendedCase="_RZd5cL6IEfCDEoI4Iov8Eg" extensionLocation="_M3USAL6KEfCDEoI4Iov8Eg"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_TcQtEL6HEfCDEoI4Iov8Eg" name="CopyOf_Create Event_1"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_VKr9wL6HEfCDEoI4Iov8Eg" name="Access Event Reports" subject="_D_Y-IL6BEfCDEoI4Iov8Eg"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_cXimAL6HEfCDEoI4Iov8Eg" name="Edit Event"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_fH2xgL6HEfCDEoI4Iov8Eg" name="CopyOf_UseCase9_4"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_fyseQL6HEfCDEoI4Iov8Eg" name="Approve Budget"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_grKXUL6HEfCDEoI4Iov8Eg" name="Event Approval"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_r3z18L6HEfCDEoI4Iov8Eg" name="Publish Event">
+      <include xmi:type="uml:Include" xmi:id="_I1DWcL6KEfCDEoI4Iov8Eg" addition="_sPjAgL6HEfCDEoI4Iov8Eg"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_sEMsIL6HEfCDEoI4Iov8Eg" name="Register event for users"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_sPjAgL6HEfCDEoI4Iov8Eg" name="Promote event"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_EAGEkL6IEfCDEoI4Iov8Eg" name="Manage Attendees"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_HMRFoL6IEfCDEoI4Iov8Eg" name="Cancel Event"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_RZd5cL6IEfCDEoI4Iov8Eg" name="Upload Promotional Material">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_M3USAL6KEfCDEoI4Iov8Eg" name="ExtensionPoint1"/>
+    </ownedUseCase>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_z4daAL6EEfCDEoI4Iov8Eg" name="Union Officer"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Y4h98L6GEfCDEoI4Iov8Eg" name="Society Leader"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_iPK9ML6GEfCDEoI4Iov8Eg" name="Student"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_jIRvcL6GEfCDEoI4Iov8Eg" name="Finance Admin"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_tHWAoL6GEfCDEoI4Iov8Eg" name="Notification Alert"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_wuRrEL6GEfCDEoI4Iov8Eg" name="System Admin"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_fMYPsL6IEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_jjn8wL6IEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_0ieDgL6IEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_5J9zEL6IEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_D1yckL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_RGrD0L6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_cJG2gL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_k6ZF8L6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_pzxPsL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_u_o3oL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_xsopYL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2iWbIL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_4BockL6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_41s90L6JEfCDEoI4Iov8Eg"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8dYPIL6JEfCDEoI4Iov8Eg"/>
 </uml:Model>
