@@ -45,7 +45,7 @@
   <packagedElement xmi:type="uml:Association" xmi:id="_4BockL6JEfCDEoI4Iov8Eg"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_41s90L6JEfCDEoI4Iov8Eg"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_8dYPIL6JEfCDEoI4Iov8Eg"/>
-  <packagedElement xmi:type="uml:Activity" xmi:id="_bsgdQL6NEfCU8oJE4uSs8w" name="Create Event" node="_qME2cL6TEfCU8oJE4uSs8w _iEfckL6ZEfCU8oJE4uSs8w _p148UL6ZEfCU8oJE4uSs8w _3kpyYL6ZEfCU8oJE4uSs8w _UuBqYL6cEfCU8oJE4uSs8w _pzMtUL6cEfCU8oJE4uSs8w _8ku5sL6cEfCU8oJE4uSs8w _NiLSQL6dEfCU8oJE4uSs8w _bhH5YL6dEfCU8oJE4uSs8w _T6pawL6eEfCU8oJE4uSs8w _d_-sAL6eEfCU8oJE4uSs8w _2_5tQL6eEfCU8oJE4uSs8w _JD43IL6fEfCU8oJE4uSs8w _jrKQsL6fEfCU8oJE4uSs8w _z_xHoL6fEfCU8oJE4uSs8w _P5wtUL6gEfCU8oJE4uSs8w _WbmCoL6gEfCU8oJE4uSs8w _wn13oL6hEfCU8oJE4uSs8w _6VDj0L6hEfCU8oJE4uSs8w _BvtXgL6iEfCU8oJE4uSs8w _HlWVML6iEfCU8oJE4uSs8w _K8fQIL6iEfCU8oJE4uSs8w _KZTGUM9zEfCOn7aXumsZbg" group="_bNvO4L6TEfCU8oJE4uSs8w _qfVXYL6YEfCU8oJE4uSs8w _xuSRYL6YEfCU8oJE4uSs8w _3Bf3cL6YEfCU8oJE4uSs8w">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_bsgdQL6NEfCU8oJE4uSs8w" name="Create Event" node="_qME2cL6TEfCU8oJE4uSs8w _iEfckL6ZEfCU8oJE4uSs8w _p148UL6ZEfCU8oJE4uSs8w _3kpyYL6ZEfCU8oJE4uSs8w _UuBqYL6cEfCU8oJE4uSs8w _pzMtUL6cEfCU8oJE4uSs8w _8ku5sL6cEfCU8oJE4uSs8w _NiLSQL6dEfCU8oJE4uSs8w _bhH5YL6dEfCU8oJE4uSs8w _T6pawL6eEfCU8oJE4uSs8w _d_-sAL6eEfCU8oJE4uSs8w _2_5tQL6eEfCU8oJE4uSs8w _JD43IL6fEfCU8oJE4uSs8w _jrKQsL6fEfCU8oJE4uSs8w _z_xHoL6fEfCU8oJE4uSs8w _P5wtUL6gEfCU8oJE4uSs8w _WbmCoL6gEfCU8oJE4uSs8w _wn13oL6hEfCU8oJE4uSs8w _6VDj0L6hEfCU8oJE4uSs8w _BvtXgL6iEfCU8oJE4uSs8w _HlWVML6iEfCU8oJE4uSs8w _K8fQIL6iEfCU8oJE4uSs8w" group="_bNvO4L6TEfCU8oJE4uSs8w _qfVXYL6YEfCU8oJE4uSs8w _xuSRYL6YEfCU8oJE4uSs8w _3Bf3cL6YEfCU8oJE4uSs8w">
     <edge xmi:type="uml:ControlFlow" xmi:id="_wxVEcL6ZEfCU8oJE4uSs8w" inPartition="_bNvO4L6TEfCU8oJE4uSs8w" target="_p148UL6ZEfCU8oJE4uSs8w" source="_iEfckL6ZEfCU8oJE4uSs8w"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_Fwu2kL6aEfCU8oJE4uSs8w" inPartition="_bNvO4L6TEfCU8oJE4uSs8w" target="_3kpyYL6ZEfCU8oJE4uSs8w" source="_p148UL6ZEfCU8oJE4uSs8w"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_hNPkIL6cEfCU8oJE4uSs8w" inPartition="_bNvO4L6TEfCU8oJE4uSs8w" target="_UuBqYL6cEfCU8oJE4uSs8w" source="_3kpyYL6ZEfCU8oJE4uSs8w"/>
@@ -103,7 +103,6 @@
     <node xmi:type="uml:OpaqueAction" xmi:id="_BvtXgL6iEfCU8oJE4uSs8w" name="Show Event submitted for approval" incoming="_BwHAIL6iEfCU8oJE4uSs8w" outgoing="_HlvWwL6iEfCU8oJE4uSs8w" inPartition="_3Bf3cL6YEfCU8oJE4uSs8w"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_HlWVML6iEfCU8oJE4uSs8w" name="" incoming="_HlvWwL6iEfCU8oJE4uSs8w" inPartition="_3Bf3cL6YEfCU8oJE4uSs8w"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_K8fQIL6iEfCU8oJE4uSs8w" name="" incoming="_K82cgL6iEfCU8oJE4uSs8w" inPartition="_xuSRYL6YEfCU8oJE4uSs8w"/>
-    <node xmi:type="uml:OpaqueAction" xmi:id="_KZTGUM9zEfCOn7aXumsZbg" name="OpaqueAction47"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Component" xmi:id="_RIDH0MpFEfCIxZuR8RV0wg" name="Student Union Management System">
     <ownedTemplateSignature xmi:type="uml:RedefinableTemplateSignature" xmi:id="_sY4XkMpMEfCIxZuR8RV0wg" name="RedefinableTemplateSignature9"/>
@@ -238,7 +237,24 @@
       </ownedParameter>
     </ownedOperation>
   </packagedElement>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_nFmIIM9yEfCOn7aXumsZbg" name="Actor53"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_JND0INHNEfCUo_MM0rlbSg" name="ValidataEventData">
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_QhGpgNHNEfCUo_MM0rlbSg" name="validate">
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_cRbc8NHNEfCUo_MM0rlbSg" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_e1ZOgNHNEfCUo_MM0rlbSg" name="date">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_qRdCINHNEfCUo_MM0rlbSg" name="venue">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:type="uml:Parameter" xmi:id="_Jo7bUNHOEfCUo_MM0rlbSg" name="success" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        <defaultValue xmi:type="uml:LiteralBoolean" xmi:id="_MvUkgNHOEfCUo_MM0rlbSg" name="LiteralBoolean1" value="true"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_jQCYYNHOEfCUo_MM0rlbSg" name="UpdateEvent"/>
   <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_prn3YMpdEfCIxZuR8RV0wg">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_prulEMpdEfCIxZuR8RV0wg" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
